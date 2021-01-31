@@ -1,0 +1,19 @@
+.text-hexschool {
+  color: #00cc99 !important;
+}
+
+.bg-trans {
+  background-color: transparent;
+}
+
+.link-hex {
+  text-decoration: none;
+  color: black;
+  border-bottom: solid #00cc99 2px;
+}
+
+.link-hex:hover {
+  text-decoration: none;
+  color: black;
+  background-color: #00cc99;
+}
